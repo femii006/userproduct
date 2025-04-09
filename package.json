@@ -8,6 +8,7 @@
   "author": "femina",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.4.7",
     "express": "^5.1.0",
     "mongoose": "^8.13.2",
     "mongose": "^0.0.2-security"
